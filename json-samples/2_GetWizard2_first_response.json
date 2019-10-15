@@ -1,0 +1,750 @@
+// REQUEST : catalogId=BMW201810
+//           __RequestVerificationToken=mzySaYK2MClx-9iiLrTPPlO2SfG9-g3T85nJLU4FVGPZlI2zMSWyUKy394hbYb6Nim_rSzEx6G3-Z_AvqYxUffbEula-dE2tLJb5OVnihSYAMow5R9bGi3G2XiTBfKTwjz8hf2AFafq6HL7GYm5gcQ2
+
+// BMW chosen
+[
+  {
+    "ExtensionData": {},
+    "Options": [
+      {
+        "ExtensionData": {},
+        "Value": "1\u0027 e81",
+        "WizardId": "$*KwHqs8-l6gAAAAAn36zf$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "1\u0027 e82",
+        "WizardId": "$*KwE4YR12OgAAAAAJSXib$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "1\u0027 e87",
+        "WizardId": "$*KwEocQ1nLwAAAAB7ckuP$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "1\u0027 e87 lci",
+        "WizardId": "$*KwFjOkYiYwAAAAC5zEBp$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "1\u0027 e88",
+        "WizardId": "$*KwGaw7_UmwAAAAAJN20O$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "1\u0027 f20",
+        "WizardId": "$*KwHPluqHzc8AAAAAsFP_1g$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "1\u0027 f20 lci",
+        "WizardId": "$*KwGD2qbLhoYAAAAAmZ-2RQ$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "1\u0027 f21",
+        "WizardId": "$*KwHWj_Oe1dYAAAAABTW6Vg$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "1\u0027 f21 lci",
+        "WizardId": "$*KwE-Zxt2OzoAAAAAwOqutg$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "1\u0027 f52",
+        "WizardId": "$*KwGv9orkr6gAAAAA3Mv3Pw$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "1500-2000cs",
+        "WizardId": "$*KwGt9IjgrgAAAACodmnX$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "1502-2002tii",
+        "WizardId": "$*KwFxKFQ6cAAAAABa23Hk$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "2\u0027 f22",
+        "WizardId": "$*KwEHXiJPAwIAAAAA9d8ZEA$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "2\u0027 f22 lci",
+        "WizardId": "$*KwFbAn4QXF4AAAAAsfm-CQ$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "2\u0027 f23",
+        "WizardId": "$*KwFtNEglaWkAAAAAcvQUkA$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "2\u0027 f23 lci",
+        "WizardId": "$*KwG-55v1uboAAAAAmyt0Lw$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "2\u0027 f45 active tourer",
+        "WizardId": "$*KwHzqta49fkAAAAAmW1mhw$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "2\u0027 f45 active tourer lci",
+        "WizardId": "$*KwH0rdG_8_MAAAAABVraMw$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "2\u0027 f46 gran tourer",
+        "WizardId": "$*KwH_ptq0-fQAAAAAzVX-6w$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "2\u0027 f46 gran tourer lci",
+        "WizardId": "$*KwFJEGwCTk8AAAAAXC_CwA$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "2\u0027 f87 m2",
+        "WizardId": "$*KwEtdAhmLC0AAAAAP3AZtA$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "2\u0027 f87 m2 lci",
+        "WizardId": "$*KwHLku6AzMEAAAAAMV3Egg$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "2.5cs-3.0csl",
+        "WizardId": "$*KwEXTjJWFAAAAACLW-9D$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "2500-3.3li",
+        "WizardId": "$*KwFPFmoOTQAAAACHmIkK$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "3\u0027 e21",
+        "WizardId": "$*KwGz6pb4tAAAAABxcaYi$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "3\u0027 e30",
+        "WizardId": "$*KwE2bxN9PQAAAACemG7K$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "3\u0027 e36",
+        "WizardId": "$*KwEmfwNsJwAAAAB8HEBP$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "3\u0027 e46",
+        "WizardId": "$*KwG17JD_sQAAAABvvOcE$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "3\u0027 e90",
+        "WizardId": "$*KwE5YBx2OgAAAACwN3XJ$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "3\u0027 e90 lci",
+        "WizardId": "$*KwGn_oLnpgAAAACLxhKQ$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "3\u0027 e91",
+        "WizardId": "$*KwHbgv6U3wAAAADaD38t$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "3\u0027 e91 lci",
+        "WizardId": "$*KwE7Yh57PQAAAAAycILC$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "3\u0027 e92",
+        "WizardId": "$*KwFNFGgDTgAAAAACsroY$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "3\u0027 e92 lci",
+        "WizardId": "$*KwH6o9-y-PwAAAAAISZEaA$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "3\u0027 e93",
+        "WizardId": "$*KwHstcmi7AAAAACgG7xD$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "3\u0027 e93 lci",
+        "WizardId": "$*KwHxqNS58_YAAAAAjoMtTA$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "3\u0027 f30",
+        "WizardId": "$*KwG74p7zubEAAAAA90quVw$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "3\u0027 f30 lci",
+        "WizardId": "$*KwENVChFCAYAAAAAOdx50Q$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "3\u0027 f31",
+        "WizardId": "$*KwEVTDBdFhcAAAAAUCU3Bw$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "3\u0027 f31 lci",
+        "WizardId": "$*KwHpsMyh7OMAAAAA-QyWwg$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "3\u0027 f34 gt",
+        "WizardId": "$*KwEyaxd6NjkAAAAAanEqnA$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "3\u0027 f34 gt lci",
+        "WizardId": "$*KwGVzLDelp4AAAAAQA43uA$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "3\u0027 f35",
+        "WizardId": "$*KwFgOUUoZGYAAAAAVcf4cw$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "3\u0027 f35 lci",
+        "WizardId": "$*KwEtdAhmLS0AAAAAJmso9Q$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "3\u0027 f80 m3",
+        "WizardId": "$*KwEmfwNuLCQAAAAA6G5GuA$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "3\u0027 f80 m3 lci",
+        "WizardId": "$*KwEvdgpkKCwAAAAA_1ajow$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "4\u0027 f32",
+        "WizardId": "$*KwGn_oLvo60AAAAA-YXAcw$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "4\u0027 f32 lci",
+        "WizardId": "$*KwHzqta48PAAAAAAncYqZg$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "4\u0027 f33",
+        "WizardId": "$*KwH4od2w_fsAAAAAEXhqCw$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "4\u0027 f33 lci",
+        "WizardId": "$*KwG17JD-trcAAAAAzoZNrA$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "4\u0027 f36 gran coupé",
+        "WizardId": "$*KwFXDnIcU1AAAAAAV-UkHA$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "4\u0027 f36 gran coupé lci",
+        "WizardId": "$*KwEPVipECwkAAAAAU0XGXw$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "4\u0027 f82 m4",
+        "WizardId": "$*KwFUDXEcXlUAAAAAxzR74A$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "4\u0027 f82 m4 lci",
+        "WizardId": "$*KwHTivaY1NEAAAAAefkdRA$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "4\u0027 f83 m4",
+        "WizardId": "$*KwF2L1M-fHYAAAAASBLF7Q$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "4\u0027 f83 m4 lci",
+        "WizardId": "$*KwGo8Y3jr6kAAAAAgXQ1hQ$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "5\u0027 e12",
+        "WizardId": "$*KwHbgv6U3gAAAACtCE-7$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "5\u0027 e28",
+        "WizardId": "$*KwHZgPyS0wAAAAAsbohl$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "5\u0027 e34",
+        "WizardId": "$*KwHmv8Os5gAAAAC8Zx1h$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "5\u0027 e39",
+        "WizardId": "$*KwEudwtkKQAAAACY2p4X$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "5\u0027 e60",
+        "WizardId": "$*KwEBWCRNBwAAAADLCrKG$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "5\u0027 e60 lci",
+        "WizardId": "$*KwHSi_ec1gAAAAAZ0zmE$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "5\u0027 e61",
+        "WizardId": "$*KwHqs8-m7QAAAACSlmq_$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "5\u0027 e61 lci",
+        "WizardId": "$*KwGL0q7FjgAAAADCclNI$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "5\u0027 f07 gt",
+        "WizardId": "$*KwE3bhJ_NDYAAAAAMQ3oJg$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "5\u0027 f07 gt lci",
+        "WizardId": "$*KwHUjfGc3tIAAAAAMuHoAQ$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "5\u0027 f10",
+        "WizardId": "$*KwHpsMyp7QAAAAAF_WfH$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "5\u0027 f10 lci",
+        "WizardId": "$*KwGYwb3QnZ8AAAAA1Jnvgw$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "5\u0027 f11",
+        "WizardId": "$*KwFLEm4LTAAAAAAFg3JS$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "5\u0027 f11 lci",
+        "WizardId": "$*KwGZwLzRnJkAAAAAoP9fFQ$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "5\u0027 f18",
+        "WizardId": "$*KwFyK1c6cHMAAAAA6SbnJQ$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "5\u0027 f18 lci",
+        "WizardId": "$*KwHSi_ea2NcAAAAAundtxg$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "5\u0027 f90 m5",
+        "WizardId": "$*KwEPVipECQgAAAAAFnSUSw$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "5\u0027 g30",
+        "WizardId": "$*KwFOF2sFTksAAAAAcfr09Q$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "5\u0027 g31",
+        "WizardId": "$*KwGA2aXLgYIAAAAAhKYxpQ$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "5\u0027 g38",
+        "WizardId": "$*KwFMFWkHTUoAAAAA_p3YJQ$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "6\u0027 e24",
+        "WizardId": "$*KwE5YBxyPAAAAAA9OBX4$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "6\u0027 e63",
+        "WizardId": "$*KwGr8o7nrwAAAACx1uzo$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "6\u0027 e63 lci",
+        "WizardId": "$*KwH-p9uw9AAAAAAuMbzM$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "6\u0027 e64",
+        "WizardId": "$*KwHnvsKr4gAAAABNNULt$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "6\u0027 e64 lci",
+        "WizardId": "$*KwGJ0KzHggAAAABQf2EE$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "6\u0027 f06 gran coupé",
+        "WizardId": "$*KwFDGmYIR0YAAAAA3Ku8Pg$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "6\u0027 f06 gran coupé lci",
+        "WizardId": "$*KwGM1anHiIgAAAAAM43ILw$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "6\u0027 f12",
+        "WizardId": "$*KwHBmOSBygAAAACucuyP$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "6\u0027 f12 lci",
+        "WizardId": "$*KwExaBR6MjQAAAAAJblGGw$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "6\u0027 f13",
+        "WizardId": "$*KwEcRTlUHh8AAAAA6e4jSQ$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "6\u0027 f13 lci",
+        "WizardId": "$*KwGD2qbIgIcAAAAAuoSfDA$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "6\u0027 g32 gt",
+        "WizardId": "$*KwHrss6g7ugAAAAAjePcFA$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "7\u0027 e23",
+        "WizardId": "$*KwFwKVU7dAAAAAD904nu$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "7\u0027 e32",
+        "WizardId": "$*KwGC26fIgQAAAACVukSR$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "7\u0027 e38",
+        "WizardId": "$*KwE2bxN8MAAAAAD5MiM2$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "7\u0027 e65",
+        "WizardId": "$*KwFeB3sSVAAAAADwxYUq$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "7\u0027 e66",
+        "WizardId": "$*KwF_JlozdAAAAABmNVSN$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "7\u0027 e67",
+        "WizardId": "$*KwEXTjJYFQAAAABi3_Jb$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "7\u0027 f01",
+        "WizardId": "$*KwEudwtgKAAAAACLsWuF$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "7\u0027 f01 lci",
+        "WizardId": "$*KwGx6JT5s7UAAAAAIlL_1w$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "7\u0027 f02",
+        "WizardId": "$*KwEvdgphKAAAAAAr1FeW$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "7\u0027 f02 lci",
+        "WizardId": "$*KwFpMEwha2IAAAAAqvs20Q$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "7\u0027 f03",
+        "WizardId": "$*KwH_ptq__wAAAACHBXTZ$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "7\u0027 f03 lci",
+        "WizardId": "$*KwHVjPCd1tYAAAAAeUuC8g$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "7\u0027 f04 hybrid",
+        "WizardId": "$*KwFaA38RXlEAAAAAl27l-A$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "7\u0027 g11",
+        "WizardId": "$*KwFiO0cpYGYAAAAA4KDMqw$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "7\u0027 g12",
+        "WizardId": "$*KwG44Z3zurMAAAAAZ3xJhg$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "700",
+        "WizardId": "$*KwFBGGQKRwAAAADpYP8p$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "8\u0027 e31",
+        "WizardId": "$*KwFTCnYZUQAAAACZ6ePg$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "8\u0027 g15",
+        "WizardId": "$*KwF3LlI8c3cAAAAAPtVzDw$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "Bmw classic motorsport",
+        "WizardId": "$*KwHFnOCOxM8AAAAAS02H1Q$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "Isetta",
+        "WizardId": "$*KwE6Yx9wPwAAAACG9Dd3$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "M1 e26",
+        "WizardId": "$*KwHEneGExwAAAACcoVau$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "Ms bmw motorsport",
+        "WizardId": "$*KwGu94vlq6oAAAAA0rd39Q$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "Tmc supra",
+        "WizardId": "$*KwEFXCBODgcAAAAA4RBiDg$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "V8",
+        "WizardId": "$*KwEIUS1ECAAAAAD4rmBb$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "Veteranen",
+        "WizardId": "$*KwFJEGwFSAAAAAA14Icg$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "X1 e84",
+        "WizardId": "$*KwGP1qrPigAAAAC3m0BQ$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "X1 f48",
+        "WizardId": "$*KwEIUS1DCg0AAAAAZ4vBKw$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "X1 f49",
+        "WizardId": "$*KwF7Il4weHEAAAAAsn6kLA$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "X2 f39",
+        "WizardId": "$*KwGZwLzSn50AAAAAjvl2lg$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "X3 e83",
+        "WizardId": "$*KwFfBnoeVAAAAADlDsd0$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "X3 e83 lci",
+        "WizardId": "$*KwHstcms7gAAAADQlvDh$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "X3 f25",
+        "WizardId": "$*KwFhOEQpY2MAAAAA7vK-2Q$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "X3 g01",
+        "WizardId": "$*KwFUDXEfVVAAAAAAVuzo_Q$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "X3 g08",
+        "WizardId": "$*KwFNFGgGTEYAAAAAai6BrQ$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "X4 f26",
+        "WizardId": "$*KwHCm-eKycMAAAAA36v5xg$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "X4 g02",
+        "WizardId": "$*KwFyK1c5dnEAAAAAUzSf1g$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "X5 e53",
+        "WizardId": "$*KwGz6pbytgAAAABlkC-E$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "X5 e70",
+        "WizardId": "$*KwHQifWf2wAAAADlwgof$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "X5 e70 lci",
+        "WizardId": "$*KwHfhvqf1QAAAABRRXBz$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "X5 f15",
+        "WizardId": "$*KwE4YR1wPT4AAAAAP3sb5w$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "X5 g05",
+        "WizardId": "$*KwGt9IjmrKoAAAAAyqWKVQ$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "X5 m f85",
+        "WizardId": "$*KwHFnOCOwM8AAAAALyFC0Q$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "X6 e71",
+        "WizardId": "$*KwGn_oLmpgAAAACS3SPR$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "X6 e72 hybrid",
+        "WizardId": "$*KwHWj_Od0twAAAAAqOd71g$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "X6 f16",
+        "WizardId": "$*KwEjegZrKSkAAAAAEl1z6Q$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "X6 m f86",
+        "WizardId": "$*KwFUDXEfXlcAAAAAK3yklQ$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "Z1 roadster",
+        "WizardId": "$*KwFVDHAdUVUAAAAAxLJDzQ$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "Z3 e36",
+        "WizardId": "$*KwE3bhJ_MzAAAAAAly_b1A$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "Z4 e85",
+        "WizardId": "$*KwEjegZiJAAAAABKgw6i$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "Z4 e86",
+        "WizardId": "$*KwGw6ZXxtAAAAACwQAzc$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "Z4 e89",
+        "WizardId": "$*KwFuN0svaAAAAABhAqwi$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "Z8 e52",
+        "WizardId": "$*KwFjOkYiaQAAAABZGal3$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "Zinoro m12",
+        "WizardId": "$*KwGy65f5srEAAAAAaTHfsQ$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "i3 i01",
+        "WizardId": "$*KwGM1anHjI4AAAAAvoKoHg$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "i3 i01 lci",
+        "WizardId": "$*KwEmfwNtICYAAAAAqJPWwQ$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "i8 i12",
+        "WizardId": "$*KwETSjZYExIAAAAA8dhfWg$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "i8 i12 lci",
+        "WizardId": "$*KwHLku6Az8kAAAAAFKsfcw$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "i8 i15",
+        "WizardId": "$*KwHOl-uFys8AAAAAeUrzqg$"
+      }
+    ],
+    "allowlistvehicles": false,
+    "conditionid": "2",
+    "description": "",
+    "determined": "false",
+    "name": "Серия",
+    "ssd": "",
+    "type": "",
+    "value": "",
+    "wizardid": null
+  }
+]

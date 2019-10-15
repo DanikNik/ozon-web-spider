@@ -1,0 +1,3320 @@
+// REQUEST : catalogId=BMW201810
+//           vehicleId=50327
+//           ssd=%24*KwGyhpeD6rT30M-28eKs5-r-3tnHt7Cxtqehrujo5evlwf2mtL6voqG8p6K0trfr4OmsoaTz46Omvvn1nsK4t6X9AAAAAPz3F-8%24
+//           __RequestVerificationToken=mzySaYK2MClx-9iiLrTPPlO2SfG9-g3T85nJLU4FVGPZlI2zMSWyUKy394hbYb6Nim_rSzEx6G3-Z_AvqYxUffbEula-dE2tLJb5OVnihSYAMow5R9bGi3G2XiTBfKTwjz8hf2AFafq6HL7GYm5gcQ2
+
+
+[
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Бампер / составляющие",
+            "quickgroupid": "11749",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Ниша для запасного колеса передняя",
+            "quickgroupid": "11753",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Капот двигателя/составляющие/изоляция",
+            "quickgroupid": "11754",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Кожух двигателя",
+            "quickgroupid": "13135",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Переднее стекло",
+            "quickgroupid": "11755",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Основная фара / вставка",
+                "quickgroupid": "11757",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Лампа накаливания основной фары",
+                "quickgroupid": "11758",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Основная фара комплектующие",
+                "quickgroupid": "11759",
+                "searchable": true
+              }
+            ],
+            "name": "Основная фара / комплектующие",
+            "quickgroupid": "11756",
+            "searchable": false
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Противотуманная фара / вставка",
+                "quickgroupid": "11762",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Противотуманная фара лампа накаливания",
+                "quickgroupid": "11763",
+                "searchable": true
+              }
+            ],
+            "name": "Противотуманная фара / комплектующие",
+            "quickgroupid": "11761",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Лампа накаливания фара дальнего света",
+                "quickgroupid": "11767",
+                "searchable": true
+              }
+            ],
+            "name": "Фара дальнего света / комплектующие",
+            "quickgroupid": "11765",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Фонарь указателя поворота",
+                "quickgroupid": "11770",
+                "searchable": true
+              }
+            ],
+            "name": "Фонарь указателя поворота / комплектующие",
+            "quickgroupid": "11769",
+            "searchable": false
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Стояночный огонь",
+                "quickgroupid": "11867",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Габаритный огонь",
+                "quickgroupid": "11868",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Лампа накаливания",
+                "quickgroupid": "11870",
+                "searchable": true
+              }
+            ],
+            "name": "Стояночный / габаритный огонь / комплектующие",
+            "quickgroupid": "11866",
+            "searchable": false
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Упругие элементы",
+                "quickgroupid": "11877",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Крепление радиатора",
+                "quickgroupid": "11875",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Облицовка / решетка",
+                "quickgroupid": "11775",
+                "searchable": true
+              }
+            ],
+            "name": "Детали крепления",
+            "quickgroupid": "11773",
+            "searchable": false
+          }
+        ],
+        "name": "Автомобиль, передняя часть",
+        "quickgroupid": "11748",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Накладки порога / двери",
+            "quickgroupid": "11792",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Двери / составляющие",
+            "quickgroupid": "11794",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Дверные / боковые стекла",
+            "quickgroupid": "11797",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Зеркала",
+            "quickgroupid": "11798",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "дополнительный стоп-сигнал",
+            "quickgroupid": "11799",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Упругие элементы",
+                "quickgroupid": "11803",
+                "searchable": true
+              }
+            ],
+            "name": "Детали крепления",
+            "quickgroupid": "11800",
+            "searchable": false
+          }
+        ],
+        "name": "Кабина пассажира",
+        "quickgroupid": "11790",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Капот двигателя/составляющие/изоляция",
+            "quickgroupid": "11883",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Кожух двигателя",
+            "quickgroupid": "13136",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Заднее окно",
+            "quickgroupid": "11884",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Задний фонарь",
+                "quickgroupid": "11816",
+                "searchable": true
+              }
+            ],
+            "name": "Задний фонарь / комплектующие",
+            "quickgroupid": "11815",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Габаритный огонь",
+                "quickgroupid": "11819",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Лампа накаливания",
+                "quickgroupid": "11821",
+                "searchable": true
+              }
+            ],
+            "name": "Габаритный огонь / комплектующие",
+            "quickgroupid": "11818",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "дополнительный стоп-сигнал",
+                "quickgroupid": "11823",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Лампа накаливания",
+                "quickgroupid": "11826",
+                "searchable": true
+              }
+            ],
+            "name": "Фонарь сигнала торможения / комплектующие",
+            "quickgroupid": "11822",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Фонарь указателя поворота",
+                "quickgroupid": "11828",
+                "searchable": true
+              }
+            ],
+            "name": "Фонарь указателя поворота / комплектующие",
+            "quickgroupid": "11827",
+            "searchable": false
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Фонарь освещения номерного знака",
+                "quickgroupid": "11832",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Лампа накаливания",
+                "quickgroupid": "11834",
+                "searchable": true
+              }
+            ],
+            "name": "Фонарь освещения номерного знака / комплектующие",
+            "quickgroupid": "11831",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Стояночный огонь",
+                "quickgroupid": "11886",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Габаритный огонь",
+                "quickgroupid": "11887",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Лампа накаливания",
+                "quickgroupid": "11889",
+                "searchable": true
+              }
+            ],
+            "name": "Стояночный / габаритный огонь / комплектующие",
+            "quickgroupid": "11885",
+            "searchable": false
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Упругие элементы",
+                "quickgroupid": "11852",
+                "searchable": true
+              }
+            ],
+            "name": "Детали крепления",
+            "quickgroupid": "11845",
+            "searchable": false
+          }
+        ],
+        "name": "Автомобиль, задняя часть",
+        "quickgroupid": "11805",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Бампер / составляющие",
+            "quickgroupid": "10287",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Накладки порога / двери",
+            "quickgroupid": "10269",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Крыло/навесные части",
+            "quickgroupid": "10285",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Обшивка кузова",
+            "quickgroupid": "10839",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Передняя решетка / обшивка",
+            "quickgroupid": "10291",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Колесная ниша",
+            "quickgroupid": "10265",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Ниша для запасного колеса передняя",
+            "quickgroupid": "10264",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Покрытие/покрышка",
+            "quickgroupid": "10799",
+            "searchable": true
+          }
+        ],
+        "name": "Детали кузова/крыло/бампер",
+        "quickgroupid": "10843",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Двери / составляющие",
+            "quickgroupid": "10289",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Капот двигателя/составляющие/изоляция",
+            "quickgroupid": "10284",
+            "searchable": true
+          }
+        ],
+        "name": "Крышки/капоты/двери/сдвижная крыша/складная крыша",
+        "quickgroupid": "10846",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Облицовка/защитная накладка",
+            "quickgroupid": "10840",
+            "searchable": true
+          }
+        ],
+        "name": "Облицовка / защита / оформление / эмблемы / защита распыл.",
+        "quickgroupid": "10319",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Оконные стекла",
+                "quickgroupid": "10667",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Прокладки",
+                "quickgroupid": "10668",
+                "searchable": true
+              }
+            ],
+            "name": "Остекление",
+            "quickgroupid": "10845",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Зеркала",
+            "quickgroupid": "10666",
+            "searchable": true
+          }
+        ],
+        "name": "Остекление / зеркала",
+        "quickgroupid": "10844",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Основная фара / вставка",
+            "quickgroupid": "11566",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Лампа накаливания основной фары",
+            "quickgroupid": "11567",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Основная фара комплектующие",
+            "quickgroupid": "11568",
+            "searchable": true
+          }
+        ],
+        "name": "Основная фара / комплектующие",
+        "quickgroupid": "11565",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Противотуманная фара / вставка",
+                "quickgroupid": "11442",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Противотуманная фара лампа накаливания",
+                "quickgroupid": "11443",
+                "searchable": true
+              }
+            ],
+            "name": "Противотуманная фара / комплектующие",
+            "quickgroupid": "11441",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Лампа накаливания фара дальнего света",
+                "quickgroupid": "11447",
+                "searchable": true
+              }
+            ],
+            "name": "Фара дальнего света / комплектующие",
+            "quickgroupid": "11445",
+            "searchable": true
+          }
+        ],
+        "name": "Дополнительная фара/ комплектующие",
+        "quickgroupid": "11440",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Задний фонарь",
+                "quickgroupid": "11509",
+                "searchable": true
+              }
+            ],
+            "name": "Задний фонарь / комплектующие",
+            "quickgroupid": "11508",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Габаритный огонь",
+                "quickgroupid": "11512",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Лампа накаливания",
+                "quickgroupid": "11514",
+                "searchable": true
+              }
+            ],
+            "name": "Габаритный огонь / комплектующие",
+            "quickgroupid": "11511",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "дополнительный стоп-сигнал",
+                "quickgroupid": "11516",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Лампа накаливания",
+                "quickgroupid": "11519",
+                "searchable": true
+              }
+            ],
+            "name": "Фонарь сигнала торможения / комплектующие",
+            "quickgroupid": "11515",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Фонарь указателя поворота",
+                "quickgroupid": "11521",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Лампа накаливания",
+                "quickgroupid": "11523",
+                "searchable": true
+              }
+            ],
+            "name": "Фонарь указателя поворота / комплектующие",
+            "quickgroupid": "11520",
+            "searchable": false
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Фонарь освещения номерного знака",
+                "quickgroupid": "11525",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Лампа накаливания",
+                "quickgroupid": "11527",
+                "searchable": true
+              }
+            ],
+            "name": "Фонарь освещения номерного знака / комплектующие",
+            "quickgroupid": "11524",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Стояночный огонь",
+                "quickgroupid": "11542",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Габаритный огонь",
+                "quickgroupid": "11543",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Лампа накаливания",
+                "quickgroupid": "11545",
+                "searchable": true
+              }
+            ],
+            "name": "Стояночный / габаритный огонь / комплектующие",
+            "quickgroupid": "11541",
+            "searchable": false
+          }
+        ],
+        "name": "Система освещения / сигнализация",
+        "quickgroupid": "11507",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Упругие элементы",
+        "quickgroupid": "10926",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Крепление радиатора",
+        "quickgroupid": "10317",
+        "searchable": true
+      }
+    ],
+    "name": "Кузов",
+    "quickgroupid": "10101",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Прокладка головки цилиндра",
+            "quickgroupid": "10325",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Прокладка крышки клапана",
+            "quickgroupid": "10327",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Прокладка стерженя",
+            "quickgroupid": "10328",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Прокладка впускного коллектора",
+            "quickgroupid": "10329",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Прокладка / уплотнительное кольцо выпускного коллектора",
+            "quickgroupid": "10331",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Прокладка масляного поддона",
+            "quickgroupid": "10334",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Прокладка турбонагнетателя",
+            "quickgroupid": "10344",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Герметизация в ситеме циркуляции  масла",
+            "quickgroupid": "10784",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Прокладка/комплект прокладок вала",
+            "quickgroupid": "10889",
+            "searchable": true
+          }
+        ],
+        "name": "Прокладки",
+        "quickgroupid": "10323",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Прокладка головки цилиндра",
+            "quickgroupid": "10474",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Крышка головки цилиндра / прокладка",
+            "quickgroupid": "10475",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Прокладка / уплотнит. кольцо впускного/выпускного коллектора",
+            "quickgroupid": "10476",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Направляющая клапана / прокладка / регулировка",
+            "quickgroupid": "10477",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Патрубок охлаждающей жидкости/ -прокладка",
+            "quickgroupid": "10888",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Сальник вала",
+            "quickgroupid": "12878",
+            "searchable": true
+          }
+        ],
+        "name": "Головка цилиндра",
+        "quickgroupid": "10473",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Воздушный фильтр/корпус воздушного фильтра",
+            "quickgroupid": "10484",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Впускной коллектор/выпускной газопровод",
+            "quickgroupid": "10486",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Патрубок дроссельной заслонки",
+                "quickgroupid": "12439",
+                "searchable": true
+              }
+            ],
+            "name": "Дроссельная заслонка / датчик",
+            "quickgroupid": "10804",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Регулировка нагнетаемого воздуха",
+                "quickgroupid": "10494",
+                "searchable": true
+              }
+            ],
+            "name": "Система нагнетатния воздуха",
+            "quickgroupid": "10490",
+            "searchable": false
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Регулирование / управление",
+            "quickgroupid": "10918",
+            "searchable": true
+          }
+        ],
+        "name": "Система подачи воздуха",
+        "quickgroupid": "10483",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Паразитный / ведущий ролик",
+                "quickgroupid": "10507",
+                "searchable": true
+              }
+            ],
+            "name": "Ремень ГРМ / натяжение",
+            "quickgroupid": "10496",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Цепь привода распредвала",
+                "quickgroupid": "10511",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Планка успокоителя",
+                "quickgroupid": "10513",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Планка натяжного устройства",
+                "quickgroupid": "11585",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Натяжитель цепи",
+                "quickgroupid": "10514",
+                "searchable": true
+              }
+            ],
+            "name": "Цепь привода распредвала / натяжение",
+            "quickgroupid": "10503",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Шестерни",
+            "quickgroupid": "11933",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Шестерня коленвала",
+            "quickgroupid": "10525",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Распредвал",
+            "quickgroupid": "10497",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Коромысло / балансир",
+            "quickgroupid": "10498",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Штанга толкателя / предохранительная трубка",
+            "quickgroupid": "10499",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Клапаны / комплектующие",
+                "quickgroupid": "10523",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Приведение в действие клапанов",
+                "quickgroupid": "10524",
+                "searchable": true
+              }
+            ],
+            "name": "Клапан / регулировка",
+            "quickgroupid": "10522",
+            "searchable": false
+          }
+        ],
+        "name": "Механизм газораспределения",
+        "quickgroupid": "10103",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Блок-картер",
+            "quickgroupid": "10633",
+            "searchable": true
+          }
+        ],
+        "name": "Блок-картер",
+        "quickgroupid": "10614",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Электроника двигателя",
+        "quickgroupid": "10854",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Вкладыш подшипника коленвала",
+                "quickgroupid": "10622",
+                "searchable": true
+              }
+            ],
+            "name": "Коленчатый вал",
+            "quickgroupid": "10617",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Маховик",
+            "quickgroupid": "10618",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Вкладыш нижней головки шатуна",
+                "quickgroupid": "10625",
+                "searchable": true
+              }
+            ],
+            "name": "Шатун",
+            "quickgroupid": "10619",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Поршень",
+                "quickgroupid": "10629",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Поршень в сборе",
+                "quickgroupid": "10630",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Комплект поршневых колец",
+                "quickgroupid": "10631",
+                "searchable": true
+              }
+            ],
+            "name": "Поршень",
+            "quickgroupid": "10620",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Сальник / комплект сальников вала",
+            "quickgroupid": "10621",
+            "searchable": true
+          }
+        ],
+        "name": "Кривошипношатунный механизм",
+        "quickgroupid": "10615",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Масляный фильтр",
+            "quickgroupid": "10570",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Корпус топливного фильтра / прокладка",
+            "quickgroupid": "10572",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Масляный радиатор",
+                "quickgroupid": "10583",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Прокладка",
+                "quickgroupid": "10588",
+                "searchable": true
+              }
+            ],
+            "name": "Масляный радиатор / комплектующие",
+            "quickgroupid": "10574",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Прокладка",
+                "quickgroupid": "10590",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Пробка сливного отверстия",
+                "quickgroupid": "10591",
+                "searchable": true
+              }
+            ],
+            "name": "Масляный поддон / комплектующие",
+            "quickgroupid": "10575",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "цепь привода",
+                "quickgroupid": "10985",
+                "searchable": true
+              }
+            ],
+            "name": "Масляный насос / комплектующие",
+            "quickgroupid": "10576",
+            "searchable": false
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Датчик давления масла / клапан",
+            "quickgroupid": "10578",
+            "searchable": true
+          }
+        ],
+        "name": "Система смазки",
+        "quickgroupid": "10345",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Кронштейн двигателя",
+            "quickgroupid": "10636",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Подвеска двигателя",
+            "quickgroupid": "10638",
+            "searchable": true
+          }
+        ],
+        "name": "Крепление двигателя",
+        "quickgroupid": "10635",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Клапан системы рециркуляции ОГ",
+                "quickgroupid": "10651",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Рециркуляция ОГ-регулирование ОГ",
+                "quickgroupid": "10645",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Прокладки",
+                "quickgroupid": "13335",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Преобразователь давления",
+                "quickgroupid": "10643",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Клапаны, рециркуляция ОГ",
+                "quickgroupid": "10649",
+                "searchable": true
+              }
+            ],
+            "name": "Рециркуляция отработанных газов",
+            "quickgroupid": "10642",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Впускная система дополнительного воздуха",
+                "quickgroupid": "10657",
+                "searchable": true
+              }
+            ],
+            "name": "Нагнетание дополнительного воздуха",
+            "quickgroupid": "10652",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Лямбда-регулирование",
+            "quickgroupid": "10829",
+            "searchable": true
+          }
+        ],
+        "name": "Система очистки ОГ",
+        "quickgroupid": "10641",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Кожух двигателя",
+        "quickgroupid": "13137",
+        "searchable": true
+      }
+    ],
+    "name": "Двигатель",
+    "quickgroupid": "10102",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Масляный фильтр",
+        "quickgroupid": "10359",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Воздушный фильтр",
+        "quickgroupid": "10360",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Фильтр салона",
+        "quickgroupid": "10363",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Гидравлический фильтр",
+        "quickgroupid": "10362",
+        "searchable": true
+      }
+    ],
+    "name": "фильтр",
+    "quickgroupid": "10105",
+    "searchable": true
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Поликлиновый ремень",
+            "quickgroupid": "10531",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Ролик натяжителя",
+            "quickgroupid": "10534",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Паразитный / ведущий ролик",
+            "quickgroupid": "10535",
+            "searchable": true
+          }
+        ],
+        "name": "Поликлиновой  ремень / комплект",
+        "quickgroupid": "10182",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Паразитный / ведущий ролик",
+            "quickgroupid": "10557",
+            "searchable": true
+          }
+        ],
+        "name": "Ремень ГРМ / комплект",
+        "quickgroupid": "10185",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Ременный шкив",
+        "quickgroupid": "12071",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Механизм свободного хода генератора",
+        "quickgroupid": "12339",
+        "searchable": true
+      }
+    ],
+    "name": "Ременный привод",
+    "quickgroupid": "10116",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Трубка забора топлива в сборе",
+        "quickgroupid": "10367",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Топливный насос",
+            "quickgroupid": "10817",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Аксессуары / составляющие",
+            "quickgroupid": "10818",
+            "searchable": true
+          }
+        ],
+        "name": "Насос / комплектующие",
+        "quickgroupid": "10351",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Датчик уровня топлива",
+        "quickgroupid": "10368",
+        "searchable": true
+      }
+    ],
+    "name": "система подачи топлива",
+    "quickgroupid": "10314",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Клапан системы рециркуляции ОГ",
+                "quickgroupid": "10911",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Рециркуляция ОГ-управление ОГ",
+                "quickgroupid": "10915",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Прокладки",
+                "quickgroupid": "13339",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Преобразователь давления",
+                "quickgroupid": "10912",
+                "searchable": true
+              }
+            ],
+            "name": "Рециркуляция ОГ",
+            "quickgroupid": "10891",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Система впуска дополнительного воздуха",
+                "quickgroupid": "10923",
+                "searchable": true
+              }
+            ],
+            "name": "Подача дололнительного воздуха",
+            "quickgroupid": "10892",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Лямбда-регулирование",
+            "quickgroupid": "10893",
+            "searchable": true
+          }
+        ],
+        "name": "Нейтрализация ОГ",
+        "quickgroupid": "10890",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Фланец / патрубок / вакуумный трубопровод",
+            "quickgroupid": "12896",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Педаль аксел. / газопотенциометр",
+            "quickgroupid": "12901",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Насос впрыска топлива / насос высокого давления",
+            "quickgroupid": "12903",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Датчик контроля массы / объема воздуха",
+            "quickgroupid": "12906",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Датчик / зонд",
+            "quickgroupid": "12909",
+            "searchable": true
+          }
+        ],
+        "name": "Приготовление смеси",
+        "quickgroupid": "12893",
+        "searchable": false
+      }
+    ],
+    "name": "Подготовка топливной смеси",
+    "quickgroupid": "10354",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Глушитель",
+        "quickgroupid": "10414",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Катализатор",
+        "quickgroupid": "10147",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Лямбда-зонд",
+        "quickgroupid": "10148",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Прокладка",
+                "quickgroupid": "10421",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Хомут",
+                "quickgroupid": "10423",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Отбойник",
+                "quickgroupid": "10425",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Резиновые полоски",
+                "quickgroupid": "10426",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Кронштейн",
+                "quickgroupid": "10427",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Зажимная деталь",
+                "quickgroupid": "10429",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Втулка",
+                "quickgroupid": "10816",
+                "searchable": true
+              }
+            ],
+            "name": "Монтажные элементы",
+            "quickgroupid": "10417",
+            "searchable": false
+          }
+        ],
+        "name": "Детали монтажа",
+        "quickgroupid": "10322",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Выпускная заслонка",
+        "quickgroupid": "12551",
+        "searchable": true
+      }
+    ],
+    "name": "Система выпуска",
+    "quickgroupid": "10104",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Водяной насос",
+            "quickgroupid": "10191",
+            "searchable": true
+          }
+        ],
+        "name": "Водяной насос / прокладка",
+        "quickgroupid": "10188",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Термостат",
+            "quickgroupid": "10195",
+            "searchable": true
+          }
+        ],
+        "name": "Термостат / прокладка",
+        "quickgroupid": "10194",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Масляный радиатор",
+            "quickgroupid": "10208",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Водяной радиатор",
+            "quickgroupid": "10203",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Крепеж радиатора",
+            "quickgroupid": "10205",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Радиатор печки",
+            "quickgroupid": "10204",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Расширительный бачок",
+            "quickgroupid": "10212",
+            "searchable": true
+          }
+        ],
+        "name": "Водяной / масляный радиатор",
+        "quickgroupid": "10202",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Соединительные элементы / провода водяного радиатора",
+            "quickgroupid": "10200",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Фланец",
+            "quickgroupid": "10940",
+            "searchable": true
+          }
+        ],
+        "name": "Соединительные элементы / провода / фланцы",
+        "quickgroupid": "10199",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Выключатель / датчик",
+        "quickgroupid": "10434",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Вентилятор",
+        "quickgroupid": "10437",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Система воздушного охлаждения",
+        "quickgroupid": "10438",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "антифриз",
+        "quickgroupid": "12305",
+        "searchable": true
+      }
+    ],
+    "name": "Система охлаждения",
+    "quickgroupid": "10107",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Комплект сцепления",
+        "quickgroupid": "10151",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Главный цилиндр",
+            "quickgroupid": "10161",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Рабочий цилиндр",
+            "quickgroupid": "10160",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Соединительные элементы / провода",
+            "quickgroupid": "10398",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Педаль",
+            "quickgroupid": "10812",
+            "searchable": true
+          }
+        ],
+        "name": "Система управления сцеплением",
+        "quickgroupid": "10179",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Маховик",
+        "quickgroupid": "10157",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Выжимной подшипник / регулировочная шайба",
+        "quickgroupid": "10159",
+        "searchable": true
+      }
+    ],
+    "name": "Система сцепления / навесные части",
+    "quickgroupid": "10150",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Прокладки",
+            "quickgroupid": "10869",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Подвеска",
+            "quickgroupid": "10872",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Корпус/составные части",
+            "quickgroupid": "10874",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Управление передач",
+            "quickgroupid": "11908",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Масла",
+            "quickgroupid": "12093",
+            "searchable": true
+          }
+        ],
+        "name": "Ступенчатая коробка передач",
+        "quickgroupid": "10339",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Масляный поддон",
+                "quickgroupid": "11954",
+                "searchable": true
+              }
+            ],
+            "name": "Масляный поддон / комплектующие",
+            "quickgroupid": "11953",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Сальники",
+            "quickgroupid": "10870",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Подвеска",
+            "quickgroupid": "10873",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Масла",
+            "quickgroupid": "11915",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "радиатор",
+            "quickgroupid": "13209",
+            "searchable": true
+          }
+        ],
+        "name": "Автоматическая коробка передач",
+        "quickgroupid": "10340",
+        "searchable": false
+      }
+    ],
+    "name": "Коробка передач",
+    "quickgroupid": "10338",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Приводной вал",
+        "quickgroupid": "10162",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Пыльник",
+        "quickgroupid": "10174",
+        "searchable": true
+      }
+    ],
+    "name": "Привод колеса",
+    "quickgroupid": "10114",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Дисковой шарнир",
+            "quickgroupid": "10807",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Карданный вал",
+            "quickgroupid": "10905",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Подшипник/опора",
+            "quickgroupid": "10939",
+            "searchable": true
+          }
+        ],
+        "name": "Продольный вал",
+        "quickgroupid": "10803",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Дифференциал",
+        "quickgroupid": "10515",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Раздаточная коробка",
+        "quickgroupid": "10516",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Масла",
+        "quickgroupid": "12096",
+        "searchable": true
+      }
+    ],
+    "name": "Главная передача",
+    "quickgroupid": "10500",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Тормозной диск",
+            "quickgroupid": "10132",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Тормозные колодки",
+            "quickgroupid": "10130",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Комплектующие / составляющие",
+            "quickgroupid": "10730",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Комплект тормозов",
+            "quickgroupid": "12344",
+            "searchable": true
+          }
+        ],
+        "name": "Дисковой тормозной механизм",
+        "quickgroupid": "10726",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Комплектующие",
+            "quickgroupid": "10906",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Суппорт дискового колесного тормозного механизма / -держатель",
+            "quickgroupid": "10907",
+            "searchable": true
+          }
+        ],
+        "name": "Суппорт дискового колесного тормозного механизма",
+        "quickgroupid": "10127",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Тормозная колодка / накладка",
+            "quickgroupid": "10131",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Комплектующие / составляющие",
+            "quickgroupid": "10734",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "стояночный тормоз",
+            "quickgroupid": "13064",
+            "searchable": true
+          }
+        ],
+        "name": "Барабанный тормозной механизм",
+        "quickgroupid": "10727",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Рычаги / Тросы / Тяги",
+        "quickgroupid": "10735",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "стояночный тормоз",
+        "quickgroupid": "10134",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Датчик износа",
+        "quickgroupid": "10731",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "тормозные шланги",
+        "quickgroupid": "10135",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "усилитель тормоза",
+        "quickgroupid": "10125",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "главный тормозной цилиндр",
+        "quickgroupid": "10126",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "тормозная жидкость",
+        "quickgroupid": "10129",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Регулировка динамики движения",
+        "quickgroupid": "10138",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Выключатель фонаря сигнала торможения",
+        "quickgroupid": "12348",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Экономичный тормозной диск",
+            "quickgroupid": "12326",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Комплект экономичных тормозных колодок",
+            "quickgroupid": "12327",
+            "searchable": true
+          }
+        ],
+        "name": "Экономичный тормоз",
+        "quickgroupid": "12324",
+        "searchable": true
+      }
+    ],
+    "name": "тормозная система",
+    "quickgroupid": "10106",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Подвеска",
+        "quickgroupid": "10213",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Амортизатор",
+        "quickgroupid": "10221",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Подвеска амортизатора/стойка амортизатора",
+        "quickgroupid": "10471",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Навесные части",
+            "quickgroupid": "10472",
+            "searchable": true
+          }
+        ],
+        "name": "Стойка амортизатора / амортизатор /-составные части",
+        "quickgroupid": "10481",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Масла",
+        "quickgroupid": "12301",
+        "searchable": true
+      }
+    ],
+    "name": "Подвеска / амортизация",
+    "quickgroupid": "10111",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Рычаг (поперечный, диагональный, продольный)",
+            "quickgroupid": "10671",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Подвеска / крепление ходовой части",
+            "quickgroupid": "10672",
+            "searchable": true
+          }
+        ],
+        "name": "Подвеска поперечного рычага",
+        "quickgroupid": "10308",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Стойка стабилизатора",
+            "quickgroupid": "10690",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Соединительная тяга",
+            "quickgroupid": "10677",
+            "searchable": true
+          }
+        ],
+        "name": "Стабилизатор / детали крепежа",
+        "quickgroupid": "10310",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Стойки / тяги",
+        "quickgroupid": "10309",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Ступица колеса",
+            "quickgroupid": "10678",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Подшипник ступицы колеса",
+            "quickgroupid": "10679",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Подвеска, корпус колесного подшипника",
+            "quickgroupid": "12350",
+            "searchable": true
+          }
+        ],
+        "name": "Ступица колеса / установка",
+        "quickgroupid": "10306",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Шарнир независимой подвески / поворотного рычага",
+            "quickgroupid": "10681",
+            "searchable": true
+          }
+        ],
+        "name": "Шарнирные элементы",
+        "quickgroupid": "10311",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Подвеска / крепление стойки амортизатора",
+        "quickgroupid": "10835",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Подвеска",
+            "quickgroupid": "10686",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Балка моста/надрамник",
+            "quickgroupid": "10861",
+            "searchable": true
+          }
+        ],
+        "name": "Балка моста / подвеска оси",
+        "quickgroupid": "10312",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Растяжка поперечного рычага",
+        "quickgroupid": "10858",
+        "searchable": true
+      }
+    ],
+    "name": "Подвеска оси / система подвески / колеса",
+    "quickgroupid": "10113",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Рулевая тяга",
+            "quickgroupid": "10297",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Отдельные элементы рулевой тяги",
+            "quickgroupid": "10703",
+            "searchable": true
+          }
+        ],
+        "name": "Рулевая тяга / составляющие",
+        "quickgroupid": "10701",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Гофрированный кожух / прокладки",
+        "quickgroupid": "10301",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Шарниры",
+        "quickgroupid": "10298",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Рулевой механизм / насос",
+        "quickgroupid": "10299",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Колонка / вал рулевого управления",
+        "quickgroupid": "10302",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Передаточные элементы рулевого управления",
+        "quickgroupid": "10694",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Масла",
+        "quickgroupid": "12303",
+        "searchable": true
+      }
+    ],
+    "name": "рулевое управление",
+    "quickgroupid": "10112",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Стартер",
+            "quickgroupid": "10459",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Тяговое реле стартера",
+            "quickgroupid": "10462",
+            "searchable": true
+          }
+        ],
+        "name": "Система стартера",
+        "quickgroupid": "10453",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Генератор",
+            "quickgroupid": "10450",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Регулятор",
+            "quickgroupid": "10451",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Составляющие",
+            "quickgroupid": "10452",
+            "searchable": true
+          }
+        ],
+        "name": "Генератор / составляющие",
+        "quickgroupid": "10141",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Батарея",
+        "quickgroupid": "10142",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Основная фара / вставка",
+            "quickgroupid": "10533",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Регулировка угла наклона фар",
+            "quickgroupid": "10379",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Ксенон",
+            "quickgroupid": "10823",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Лампа накаливания основной фары",
+            "quickgroupid": "10527",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Основная фара комплектующие",
+            "quickgroupid": "10530",
+            "searchable": true
+          }
+        ],
+        "name": "Основная фара / комплектующие",
+        "quickgroupid": "10243",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Противотуманная фара / вставка",
+                "quickgroupid": "10540",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Противотуманная фара лампа накаливания",
+                "quickgroupid": "10547",
+                "searchable": true
+              }
+            ],
+            "name": "Противотуманная фара / комплектующие",
+            "quickgroupid": "10377",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Лампа накаливания фара дальнего света",
+                "quickgroupid": "10542",
+                "searchable": true
+              }
+            ],
+            "name": "Фара дальнего света / комплектующие",
+            "quickgroupid": "10376",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Фара с автоматической системой стабилизации/запчасти",
+            "quickgroupid": "12771",
+            "searchable": true
+          }
+        ],
+        "name": "Дополнительная фара/ комплектующие",
+        "quickgroupid": "10887",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Задний фонарь",
+                "quickgroupid": "10554",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Лампа накаливания заднего фонаря",
+                "quickgroupid": "11595",
+                "searchable": true
+              }
+            ],
+            "name": "Задний фонарь / комплектующие",
+            "quickgroupid": "10375",
+            "searchable": false
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "дополнительный стоп-сигнал",
+                "quickgroupid": "10967",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Лампа накаливания",
+                "quickgroupid": "10596",
+                "searchable": true
+              }
+            ],
+            "name": "Фонарь сигнала торможения / комплектующие",
+            "quickgroupid": "10384",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Фонарь указателя поворота",
+                "quickgroupid": "10563",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Лампа накаливания",
+                "quickgroupid": "10598",
+                "searchable": true
+              }
+            ],
+            "name": "Фонарь указателя поворота / комплектующие",
+            "quickgroupid": "10245",
+            "searchable": false
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Фонарь освещения номерного знака",
+                "quickgroupid": "10564",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Лампа накаливания",
+                "quickgroupid": "10599",
+                "searchable": true
+              }
+            ],
+            "name": "Фонарь освещения номерного знака / комплектующие",
+            "quickgroupid": "10247",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Стояночный огонь",
+                "quickgroupid": "10568",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Габаритный огонь",
+                "quickgroupid": "10569",
+                "searchable": true
+              },
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Лампа накаливания",
+                "quickgroupid": "10603",
+                "searchable": true
+              }
+            ],
+            "name": "Стояночный / габаритный огонь / комплектующие",
+            "quickgroupid": "10390",
+            "searchable": false
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [
+              {
+                "ExtensionData": {},
+                "DetailGroups": [],
+                "name": "Освещение салона",
+                "quickgroupid": "10605",
+                "searchable": true
+              }
+            ],
+            "name": "Внутреннее освещение",
+            "quickgroupid": "10392",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "дневное освещение",
+            "quickgroupid": "10970",
+            "searchable": true
+          }
+        ],
+        "name": "Система освещения / сигнализация",
+        "quickgroupid": "10143",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Выключатель",
+            "quickgroupid": "10609",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Блок управления",
+            "quickgroupid": "10824",
+            "searchable": true
+          }
+        ],
+        "name": "Выключатель / реле / блок управления освещения",
+        "quickgroupid": "10407",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Звуковой сигнал",
+        "quickgroupid": "10420",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Датчики",
+        "quickgroupid": "12847",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Датчики / переключатели",
+            "quickgroupid": "10653",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Вал спидометра",
+            "quickgroupid": "10661",
+            "searchable": true
+          }
+        ],
+        "name": "Контрольные приборы",
+        "quickgroupid": "10422",
+        "searchable": false
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Приборы управления",
+        "quickgroupid": "10827",
+        "searchable": true
+      }
+    ],
+    "name": "Электрика",
+    "quickgroupid": "10110",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Катушка зажигания",
+        "quickgroupid": "10250",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Свеча зажигания",
+        "quickgroupid": "10251",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Генератор импульсов",
+        "quickgroupid": "10349",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Блок управления / реле",
+        "quickgroupid": "10347",
+        "searchable": true
+      }
+    ],
+    "name": "Система зажигания / накаливания",
+    "quickgroupid": "10108",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Фильтр салона",
+        "quickgroupid": "10446",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Теплообменник",
+        "quickgroupid": "10447",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Двигатель вентилятор",
+        "quickgroupid": "10449",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Блок управления",
+        "quickgroupid": "10825",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Элементы управления",
+        "quickgroupid": "10826",
+        "searchable": true
+      }
+    ],
+    "name": "Отопление / вентиляция",
+    "quickgroupid": "10341",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Компрессор/детали",
+        "quickgroupid": "10454",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Конденсатор",
+        "quickgroupid": "10455",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Испаритель",
+        "quickgroupid": "10456",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Осушитель",
+        "quickgroupid": "10457",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Комплект для дооборудования",
+        "quickgroupid": "10465",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Ремонтный комплект",
+        "quickgroupid": "13022",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Клапаны",
+        "quickgroupid": "10458",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Датчики",
+        "quickgroupid": "10894",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Выключатель",
+        "quickgroupid": "10466",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Управление / регулирование",
+        "quickgroupid": "10879",
+        "searchable": true
+      }
+    ],
+    "name": "Кондиционер",
+    "quickgroupid": "10343",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Интервал регулировки",
+        "quickgroupid": "10697",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Дополнительные работы",
+        "quickgroupid": "10698",
+        "searchable": true
+      }
+    ],
+    "name": "Детали для сервиса / проверки / ухода",
+    "quickgroupid": "10119",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Прицепное оборудование",
+        "quickgroupid": "10707",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Комплектующие / навесные части",
+        "quickgroupid": "10709",
+        "searchable": true
+      }
+    ],
+    "name": "Прицепное оборудование / комплектующие",
+    "quickgroupid": "10115",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [],
+    "name": "Система очистки фар",
+    "quickgroupid": "10442",
+    "searchable": true
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Стеклоочиститель / резина",
+        "quickgroupid": "10233",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Двигатель стеклоочистителя",
+        "quickgroupid": "10234",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Водяной насос омывателя",
+        "quickgroupid": "10235",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Рычаг стеклоочистителя / подвеска",
+        "quickgroupid": "10236",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Бачок стеклоочистителя / провода",
+        "quickgroupid": "10710",
+        "searchable": true
+      }
+    ],
+    "name": "Система очистки окон",
+    "quickgroupid": "10118",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Система помощи при парковке / сист. предупрежд. заднего хода",
+        "quickgroupid": "10718",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Подъемное устройство для окон",
+        "quickgroupid": "10851",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Система регулировки скорости",
+        "quickgroupid": "10715",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Датчики",
+        "quickgroupid": "10950",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Центральный замок",
+        "quickgroupid": "10717",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Стеклоподъемник",
+            "quickgroupid": "10721",
+            "searchable": true
+          },
+          {
+            "ExtensionData": {},
+            "DetailGroups": [],
+            "name": "Система регулировки скорости",
+            "quickgroupid": "10980",
+            "searchable": true
+          }
+        ],
+        "name": "Двигатель / реле/выключатель",
+        "quickgroupid": "10720",
+        "searchable": false
+      }
+    ],
+    "name": "Дополнительные удобства",
+    "quickgroupid": "10435",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Подъемное устройство для окон",
+        "quickgroupid": "12791",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Подъемный механизм с верхним/нижним приводом",
+        "quickgroupid": "12795",
+        "searchable": true
+      },
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Багажник / помещение для груза",
+        "quickgroupid": "12797",
+        "searchable": true
+      }
+    ],
+    "name": "Внутренняя отделка",
+    "quickgroupid": "10441",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Центральный замок",
+        "quickgroupid": "10786",
+        "searchable": true
+      }
+    ],
+    "name": "Замок",
+    "quickgroupid": "10785",
+    "searchable": false
+  },
+  {
+    "ExtensionData": {},
+    "DetailGroups": [
+      {
+        "ExtensionData": {},
+        "DetailGroups": [],
+        "name": "Багажник / пространство для груза",
+        "quickgroupid": "10962",
+        "searchable": true
+      }
+    ],
+    "name": "Комплектующие",
+    "quickgroupid": "10833",
+    "searchable": true
+  }
+]

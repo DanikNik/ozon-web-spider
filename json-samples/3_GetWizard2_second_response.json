@@ -1,0 +1,69 @@
+// REQUEST : catalogId=BMW201810
+//           ssd=%24*KwHqs8-l6gAAAAAn36zf%24
+//           __RequestVerificationToken=mzySaYK2MClx-9iiLrTPPlO2SfG9-g3T85nJLU4FVGPZlI2zMSWyUKy394hbYb6Nim_rSzEx6G3-Z_AvqYxUffbEula-dE2tLJb5OVnihSYAMow5R9bGi3G2XiTBfKTwjz8hf2AFafq6HL7GYm5gcQ2
+
+// 1' e81 chosen
+[
+  {
+    "ExtensionData": {},
+    "Options": [
+      {
+        "ExtensionData": {},
+        "Value": "3-дверный",
+        "WizardId": "$*KwFwKVU_cD13BXFzdQAAAABtBKDQ$"
+      }
+    ],
+    "allowlistvehicles": true,
+    "conditionid": "3",
+    "description": "",
+    "determined": "true",
+    "name": "Тип кузова",
+    "ssd": "",
+    "type": "",
+    "value": "3-дверный",
+    "wizardid": null
+  },
+  {
+    "ExtensionData": {},
+    "Options": [
+      {
+        "ExtensionData": {},
+        "Value": "Левый руль",
+        "WizardId": "$*KwHFnOCKxYjEsMbCyMQAAAAAMTVEtA$"
+      },
+      {
+        "ExtensionData": {},
+        "Value": "Правый руль",
+        "WizardId": "$*KwELUi5EC0YKfggMBgsAAAAACVE6OQ$"
+      }
+    ],
+    "allowlistvehicles": true,
+    "conditionid": "5",
+    "description": "",
+    "determined": "false",
+    "name": "Рулевое управление",
+    "ssd": "",
+    "type": "",
+    "value": "",
+    "wizardid": null
+  },
+  {
+    "ExtensionData": {},
+    "Options": [
+      {
+        "ExtensionData": {},
+        "Value": "Еэк",
+        "WizardId": "$*KwGL0q7Ei8aI_oiNj44AAAAAvW7_oA$"
+      }
+    ],
+    "allowlistvehicles": true,
+    "conditionid": "7",
+    "description": "",
+    "determined": "true",
+    "name": "Рынок",
+    "ssd": "",
+    "type": "",
+    "value": "ЕЭК",
+    "wizardid": null
+  }
+]
